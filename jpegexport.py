@@ -24,7 +24,7 @@ from distutils.spawn import find_executable
 import subprocess
 import math
 
-import inkex
+import index
 import simpletransform
 
 inkex.localize()
